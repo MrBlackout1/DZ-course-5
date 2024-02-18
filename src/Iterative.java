@@ -1,5 +1,6 @@
-// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
+// Складності до ітераційного методу:
+// Часова: O(n)
+// Просторова: O(1)
 public class Iterative {
     static class fibonac{
         int[] cache = new int[100];

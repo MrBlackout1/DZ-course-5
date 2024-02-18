@@ -1,3 +1,6 @@
+// Складності до рекурсивного методу:
+// Часова: O(2^n)
+// Просторова: O(n)
 public class Recursive {
     static class fibonac{
 

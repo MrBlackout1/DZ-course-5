@@ -1,6 +1,9 @@
 import java.util.HashMap;
 import java.util.Map;
 
+// Складності до динамічного методу:
+// Часова: O(n)
+// Просторова: O(n)
 public class Dynamic {
     public static class FibonacciDP {
         private static Map<Integer, Long> memo = new HashMap<>();
